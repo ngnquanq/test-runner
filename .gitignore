@@ -1,0 +1,22 @@
+# Vulnerability reports (optional - remove if you want to commit reports)
+vulnerability-reports/*.txt
+vulnerability-reports/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
